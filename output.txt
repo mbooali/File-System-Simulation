@@ -1,0 +1,11 @@
+File /home/ali/hasan/main.cpp created
+main.cpp  founded in   /home/ali/hasan/main.cpp/
+not found 
+/home/ali/main.cpp has been deleted...!
+Folder /usr created
+File /home/ali/usr/documents/SA.pdf created
+Folder /home/ali/usr/documents/Letters created
+not found 
+not found 
+not found 
+not found 

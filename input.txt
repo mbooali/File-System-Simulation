@@ -1,0 +1,22 @@
+Create File /home/ali/hasan/main.cpp
+Search main.cpp
+Move /home/ali/hasan/main.cpp /home/ali/main.cpp
+Modify Content /home/ali/main.cpp salam a
+Delete /home/ali/main.cpp
+Delete /home/ali
+Create Folder /usr
+Create Folder /home/j.smith
+Create File /home/ali/usr/documents/SA.pdf
+Create Folder /home/ali/usr/documents/Letters
+Copy /home/ali/usr/documents/SA.pdf /home/j.smith/SA2.pdf
+Move /home/ali/main.cpp /home/j.smith/main.cpp
+Modify Name /home/ali/usr/documents/SA.pdf SA2.pdf
+Modify Name /home/j.smith j_smith
+Modify Content /home/ali/usr/documents/SA2.pdf salam ali
+Search SA2.pdf
+Search j.smith
+Show /home/ali/usr/documents/SA2.pdf
+Existense /home/j_smith
+Existense /home/j.smith
+Delete /home/j_smith
+Search main.cpp
